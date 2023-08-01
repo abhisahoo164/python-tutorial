@@ -1,4 +1,4 @@
-forth
- push yes
+forth push yes
+
 
 
